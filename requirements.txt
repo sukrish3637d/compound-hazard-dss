@@ -1,0 +1,2 @@
+# Dependencies added incrementally per module, not upfront.
+# See docs/implementation_plan.md for the module breakdown.

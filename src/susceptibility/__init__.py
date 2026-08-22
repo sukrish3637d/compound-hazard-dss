@@ -1,0 +1,1 @@
+"""Susceptibility module."""

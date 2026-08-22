@@ -1,0 +1,1 @@
+"""Blockage module."""
