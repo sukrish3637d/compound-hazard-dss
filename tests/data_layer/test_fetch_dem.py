@@ -1,6 +1,5 @@
 """Unit tests for DEM tile identification and URL generation."""
 
-import pytest
 from src.data_layer.config import AOIConfig, STUDY_AREAS
 from src.data_layer.fetch_dem import get_tile_name, get_tile_urls
 

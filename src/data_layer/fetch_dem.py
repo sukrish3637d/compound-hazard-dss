@@ -3,7 +3,7 @@
 import logging
 import math
 from pathlib import Path
-from typing import List, Tuple
+from typing import List
 
 import numpy as np
 import rasterio
